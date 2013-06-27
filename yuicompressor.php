@@ -1,5 +1,7 @@
 <?php
 
+namespace Compressor;
+
 class YUICompressor
 {
     
